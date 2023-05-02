@@ -396,3 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+Eyebrows/.DS_Store
+handpose/.DS_Store
